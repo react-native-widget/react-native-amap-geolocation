@@ -1,0 +1,56 @@
+{
+  "_from": "@remobile/react-native-amap-geolocation",
+  "_id": "@remobile/react-native-amap-geolocation@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-jOoT5ObbKrfZWuF/eGZNO/hBfnoXLqYI9pnPlNjY1iO56Yz2xNK93cdDnSmJbgqgQnHZgZoA7y/OX1QM5jPlSg==",
+  "_location": "/@remobile/react-native-amap-geolocation",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@remobile/react-native-amap-geolocation",
+    "name": "@remobile/react-native-amap-geolocation",
+    "escapedName": "@remobile%2freact-native-amap-geolocation",
+    "scope": "@remobile",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@remobile/react-native-amap-geolocation/-/react-native-amap-geolocation-1.0.2.tgz",
+  "_shasum": "3e67ae69d676fc9a992ba0129feeac1ee15a8d6c",
+  "_spec": "@remobile/react-native-amap-geolocation",
+  "_where": "/Users/trust/Development/App/management-system",
+  "author": {
+    "name": "honggao"
+  },
+  "bugs": {
+    "url": "https://github.com/remobile/react-native-amap-geolocation/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "a amap geolocation module for react-native,include ios and android",
+  "homepage": "https://github.com/remobile/react-native-amap-geolocation#readme",
+  "keywords": [
+    "geolocation",
+    "amap",
+    "react",
+    "native",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@remobile/react-native-amap-geolocation",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remobile/react-native-amap-geolocation.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
