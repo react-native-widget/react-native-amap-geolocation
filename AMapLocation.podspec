@@ -2,7 +2,7 @@ require 'json'
 
 package_json = JSON.parse(File.read(File.join(__dir__, 'package.json')))
 Pod::Spec.new do |s|
-   s.name                = 'test'
+   s.name                = 'AMapLocation'
   s.version             = package_json["version"]
   s.author              = { package_json['author']['name'] => package_json['author']['email'] }
   s.license             = { :type => package_json['license'] }
