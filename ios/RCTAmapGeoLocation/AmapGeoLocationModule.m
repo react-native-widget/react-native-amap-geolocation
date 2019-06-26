@@ -55,7 +55,7 @@ RCT_EXPORT_METHOD(startSingleLocation) {
         {
             NSLog(@"locError:{%ld - %@};", (long)error.code, error.localizedDescription);
 
-            [self sendEventWithName:@"TencentGeolocation" body: @{
+            [self sendEventWithName:@"AMapGeolocation" body: @{
                                                                   @"errorCode": @(error.code),
                                                                   @"errorMsg": error.localizedDescription,
                                                                   }];
